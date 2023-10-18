@@ -2,7 +2,6 @@
 import React from 'react';
 
 import Image from 'next/image'
-// import TypeEffect from './components/typedAnimation/page'
 
 
 export default function Home() {
